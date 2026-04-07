@@ -1,7 +1,6 @@
 <?php
 $text = '/images/uploads/';
 ?>
-<?php include 'includes/header.php'; ?>
 <p>
   <b>Remove '/' from both ends:</b><br>
   <br>
@@ -16,4 +15,3 @@ $text = '/images/uploads/';
   <b>Repeat the string:</b><br>
   </p>
 </p>
-<?php include 'includes/footer.php'; ?>

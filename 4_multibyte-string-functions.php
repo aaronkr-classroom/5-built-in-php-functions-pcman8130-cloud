@@ -1,8 +1,6 @@
 <?php
 $text = 'Total: £444';
 ?>
-<?php include 'includes/header.php'; ?>
-
 <p>
   <b>Character count using <code>strlen()</code>:</b>
   <br>
@@ -13,5 +11,3 @@ $text = 'Total: £444';
   <b>First match of 444 <code>mb_strpos()</code>:</b>
   <br>
 </p>
-
-<?php include 'includes/footer.php'; ?>
